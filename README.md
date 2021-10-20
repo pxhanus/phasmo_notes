@@ -69,7 +69,7 @@ Hunts early
 - Can hunt at any sanity, rare -- Aug 2021
 - Objectives "escape ghost" "repel ghost" harder because won't work unless target leaves house or does it themselves. -- Aug 2021
 ### Weakness 
-- Crucifixes range doubled (6m pretty sure) -- Aug 2021
+- Crucifix range almost doubled (5m pretty sure) -- Aug 2021
 - Picks a target. When target isn't in house, hunts closest person normally. When target in house, will only kill target, others could run into ghost and survive -- Aug 2021
 
 <br />
@@ -159,7 +159,10 @@ Hunts early
 ## Random notes:
 Speed: player 1.6x, jinn (max) 2.5x, rev 3x
 
+Crucifix: range normally 3m for all ghosts except banshee (5m)
+
 Myth: Jinn faster when they don't see a player and are just roaming around
 
 Ghost events: drop sanity by 10%
+
 Oujia board: failed questions 40% drop, successful questions 10% drop
