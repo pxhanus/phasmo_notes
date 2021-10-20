@@ -148,7 +148,7 @@ Faster when cold. Insym thinks is pretty negligible, especially on small maps. P
 ### Search Terms
 Hunts early
 ### Strengths and Powers 
-- Can hunt at 80% sanity when talking. But will hunt where you are most of the time. -- Aug 2021
+- Can hunt at 80% sanity when talking. But will hunt close by if hunting early. -- Aug 2021
 ### Weakness 
 - Can only hear you close by during a hunt -- Aug 2021
 
@@ -157,12 +157,14 @@ Hunts early
 <br />
 
 ## Random notes:
-Speed: player 1.6x, jinn (max) 2.5x, rev 3x
+Speed: player 1.6x, jinn (max) 2.5x, rev 3x -- Aug 2021
 
-Crucifix: range normally 3m for all ghosts except banshee (5m)
+Crucifix: range normally 3m for all ghosts except banshee (5m) -- Oct 2021
 
-Myth: Jinn faster when they don't see a player and are just roaming around
+Myth: Jinn faster when they don't see a player and are just roaming around -- Aug 2021
 
-Ghost events: drop sanity by 10%
+Ghost events: drop sanity by 10% -- Aug 2021
 
-Oujia board: failed questions 40% drop, successful questions 10% drop
+Oujia board: failed questions 40% drop, successful questions 10% drop -- Oct 2021
+
+Front door: only closes during hunts or ghost event. Ghost can't close it by touching it like other doors -- Oct 2021
