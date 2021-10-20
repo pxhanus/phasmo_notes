@@ -2,6 +2,8 @@
 
 ## Example entry:
 ## \<Ghost Name>
+### Search Terms
+\<indenifiable characteristics that might be helpful to quickly ctrl+f>
 ### Strengths and Powers 
 - \<Something I preceive a strength of ghost> -- \<Last date I heard it worked>
 ### Weakness 
@@ -57,7 +59,7 @@ Drop sanity
 
 ## Banshee
 ### Search Terms
-Hunt early
+Hunts early
 ### Strengths and Powers 
 - Can hunt at any sanity, rare -- Aug 2021
 - Objectives "escape ghost" "repel ghost" harder because won't work unless target leaves house or does it themselves. -- Aug 2021
@@ -80,7 +82,7 @@ Fast, drop sanity
 
 ## Mare
 ### Search Terms
-Hunt early
+Hunts early
 ### Strengths and Powers 
 - In the dark, they can hunt at 60% sanity. -- Aug 2021   
 - Turning on lights may not help, could roam even a bit further into a dark room and back and then start a hunt. -- Aug 2021
@@ -110,7 +112,7 @@ Fast
 
 ## Demon
 ### Search Terms
-Hunt early
+Hunts early
 ### Strengths and Powers 
 - Can hunt at 70% sanity -- Aug 2021
 ### Weakness 
@@ -139,7 +141,7 @@ Faster when cold. Insym thinks is pretty negligible, especially on small maps. P
 
 ## Yokai
 ### Search Terms
-Hunt early
+Hunts early
 ### Strengths and Powers 
 - Can hunt at 80% sanity when talking. But will hunt where you are most of the time. -- Aug 2021
 ### Weakness 
