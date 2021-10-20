@@ -9,7 +9,7 @@ This was made to help me and people like me who want to learn the more niche rul
 ## \<Ghost Name>
 ### Search Terms
 \<indenifiable characteristics that might be helpful to quickly ctrl+f>
-### Strengths and Powers 
+### Strengths
 - \<a characteristic I preceive to be a strength for the ghost> -- \<Last date I heard it worked>
 ### Weakness 
 - \<a characteristic I preceive to be a weakness for the ghost> -- \<Last date I heard it worked>
@@ -20,7 +20,7 @@ This was made to help me and people like me who want to learn the more niche rul
 ## Yurei
 ### Search Terms
 Drop sanity
-### Strengths and Powers 
+### Strengths 
 - Banshee like ability, randomly drop 15% sanity when close to ghost, rare (fact check the %?) -- Oct 2021
 ### Weakness 
 - Supposed to be able to smudge to lock in room, but not super confirmed/helpful -- Aug 2021
@@ -28,7 +28,7 @@ Drop sanity
 <br />
 
 ## Spirit
-### Strengths and Powers 
+### Strengths
 - 
 ### Weakness 
 - Doesn't hunt for 3 mins when smudged, others 1.5 -- Aug 2021
@@ -37,7 +37,7 @@ Drop sanity
 <br />
 
 ## Wraith
-### Strength and Power 
+### Strength
 - Can teleport to player -- Aug 2021
 ### Weakness 
 - Step in salt will make it more aggressive, but also easier to figure out -- Aug 2021
@@ -45,7 +45,7 @@ Drop sanity
 <br />
 
 ## Phantom
-### Strength and Power 
+### Strength
 - blinks longer periods of time during a hunt. Makes it harder to see when looping. -- Aug 2021
 ### Weakness 
 - Now taking a photo they will show in photo but immediately disappear after -- Sept 2021
@@ -53,7 +53,7 @@ Drop sanity
 <br />
 
 ## Poltergeist
-### Strength and Power 
+### Strength
 - Throw multiple items at once. -- Aug 2021
 - Create fake emf 5 spikes on activity board in truck -- Aug 2021
 - Can be hard to find in an empty room w/o things to throw -- Aug 2021
@@ -65,7 +65,7 @@ Drop sanity
 ## Banshee
 ### Search Terms
 Hunts early
-### Strengths and Powers 
+### Strengths
 - Can hunt at any sanity, rare -- Aug 2021
 - Objectives "escape ghost" "repel ghost" harder because won't work unless target leaves house or does it themselves. -- Aug 2021
 ### Weakness 
@@ -77,7 +77,7 @@ Hunts early
 ## Jinn
 ### Search Terms
 Fast, drop sanity
-### Strengths and Powers 
+### Strengths
 - Speed boost when power's on and far from player. Effective on large maps and dangerous. (Note: at 2.5x speed, is still not as fast as Rev [3x speed]) -- Aug 2021
 - Can drop sanity [how much?], super rare -- Aug 2021
 ### Weakness 
@@ -88,7 +88,7 @@ Fast, drop sanity
 ## Mare
 ### Search Terms
 Hunts early
-### Strengths and Powers 
+### Strengths
 - In the dark, they can hunt at 60% sanity. -- Aug 2021   
 - Turning on lights may not help, could roam even a bit further into a dark room and back and then start a hunt. -- Aug 2021
 ### Weakness 
@@ -100,7 +100,7 @@ Hunts early
 ## Revenant   
 ### Search Terms
 Fast
-### Strengths and Powers 
+### Strengths 
 - 3x speed when los. ‘Nuff said. Slower when it doesn’t see player. Just hide wherever you can. -- Aug 2021
 ### Weakness 
 - 
@@ -108,7 +108,7 @@ Fast
 <br />
 
 ## Shade
-### Strengths and Powers 
+### Strengths
 - Not active. Can take forever to get evidence. - Aug 2021
 ### Weakness 
 - 2 people in the ghost room can’t hunt at all - Aug 2021
@@ -118,7 +118,7 @@ Fast
 ## Demon
 ### Search Terms
 Hunts early
-### Strengths and Powers 
+### Strengths
 - Can hunt at 70% sanity -- Aug 2021
 ### Weakness 
 - Successful oujia board questions won’t drop sanity -- Aug 2021
@@ -126,7 +126,7 @@ Hunts early
 <br />
 
 ## Oni
-### Strengths and Powers 
+### Strengths
 - Tends to be more active from Insym’s experience with tracked stats -- Aug 2021
 - When throws objects, throws at “high speed” further -- Aug 2021
 ### Weakness 
@@ -134,13 +134,13 @@ Hunts early
  
 <br />
 
-Hantu
-   Search Terms
+## Hantu
+### Search Terms
 Fast
-   Strengths and Powers 
-Faster when cold. Insym thinks is pretty negligible, especially on small maps. Probably more deadly on large maps.  -- Aug 2021
-   Weakness 
- Slower than most ghosts with breaker on. -- Aug 2021
+### Strengths
+- Faster when cold. Insym thinks is pretty negligible, especially on small maps. Probably more deadly on large maps.  -- Aug 2021
+### Weakness 
+- Slower than most ghosts with breaker on. -- Aug 2021
 
 <br />
 
