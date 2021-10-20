@@ -153,6 +153,22 @@ Hunts early
 - Can only hear you close by during a hunt -- Aug 2021
 
 <br />
+
+## Myling
+### Strengths and Powers 
+-
+### Weakness 
+-
+
+<br />
+
+## Goryo
+### Strengths and Powers 
+- 
+### Weakness 
+-
+
+<br />
 <br />
 <br />
 
