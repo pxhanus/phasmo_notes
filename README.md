@@ -1,13 +1,18 @@
 # phasmo_notes
+## What this is
+This was made to help me and people like me who want to learn the more niche rules of phasmo beyond what's mentioned in the journal. Thanks goes out to the streamer [Insym](https://www.twitch.tv/insym) for educating an army of phasmo nerds and getting me interested in speedrunning. <3 <br />
+**Contributions welcome!** Please make a PR with your source and include last confirm month/yr it worked. 
+
+<br />
 
 ## Example entry:
 ## \<Ghost Name>
 ### Search Terms
 \<indenifiable characteristics that might be helpful to quickly ctrl+f>
 ### Strengths and Powers 
-- \<Something I preceive a strength of ghost> -- \<Last date I heard it worked>
+- \<a characteristic I preceive to be a strength for the ghost> -- \<Last date I heard it worked>
 ### Weakness 
-- \<Something I preceive a weakness of ghost> -- \<Last date I heard it worked>
+- \<a characteristic I preceive to be a weakness for the ghost> -- \<Last date I heard it worked>
 
 <br />
 <br />
