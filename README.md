@@ -66,7 +66,7 @@ Drop sanity
 ### Search Terms
 Hunts early
 ### Strengths
-- Can hunt at any sanity, rare -- Aug 2021
+- Can hunt at any sanity, rare -- Oct 2021
 - Objectives "escape ghost" "repel ghost" harder because won't work unless target leaves house or does it themselves. -- Aug 2021
 ### Weakness 
 - Crucifix range almost doubled (5m pretty sure) -- Aug 2021
@@ -89,10 +89,10 @@ Fast, drop sanity
 ### Search Terms
 Hunts early
 ### Strengths
-- In the dark, they can hunt at 60% sanity. -- Aug 2021   
+- In the dark, they can hunt at 60% sanity. -- Oct 2021   
 - Turning on lights may not help, could roam even a bit further into a dark room and back and then start a hunt. -- Aug 2021
 ### Weakness 
-- In the light, they can hunt at 40% sanity -- Aug 2021
+- In the light, they can hunt at 40% sanity -- Oct 2021
 - Cannot turn on lights -- Aug 2021
 
 <br />
@@ -119,7 +119,7 @@ Fast
 ### Search Terms
 Hunts early
 ### Strengths
-- Can hunt at 70% sanity -- Aug 2021
+- Can hunt at 70% sanity -- Oct 2021
 ### Weakness 
 - Successful oujia board questions won’t drop sanity -- Aug 2021
 
@@ -148,7 +148,7 @@ Fast
 ### Search Terms
 Hunts early
 ### Strengths and Powers 
-- Can hunt at 80% sanity when talking. But will hunt close by if hunting early. -- Aug 2021
+- Can hunt at 80% sanity when talking. But will hunt close by if hunting early. -- Oct 2021
 ### Weakness 
 - Can only hear you close by during a hunt -- Aug 2021
 
