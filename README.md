@@ -1,4 +1,4 @@
-# phasmo "extended journal"
+# phasmo extended journal
 ## What this is
 This was made to help me and people like me who want to learn the more niche rules of phasmo beyond what's mentioned in the journal. Thanks goes out to the streamer [Insym](https://www.twitch.tv/insym) for educating an army of phasmo nerds and getting me interested in speedrunning. <3 <br />
 **Contributions welcome!** Please make a PR with your source and include last confirm month/yr it worked. 
