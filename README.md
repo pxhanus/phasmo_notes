@@ -82,6 +82,8 @@ Fast, drop sanity
 - Can drop sanity [how much?], super rare -- Aug 2021
 ### Weakness 
 - Speed boost ineffective on small maps plus breaking los ez -- Aug 2021
+### Myth
+- Jinn faster when they don't see a player and are just roaming around -- Aug 2021
 
 <br />
 
@@ -147,7 +149,7 @@ Fast
 ## Yokai
 ### Search Terms
 Hunts early
-### Strengths and Powers 
+### Strengths
 - Can hunt at 80% sanity when talking. But will hunt close by if hunting early. -- Oct 2021
 ### Weakness 
 - Can only hear you close by during a hunt -- Aug 2021
@@ -155,7 +157,7 @@ Hunts early
 <br />
 
 ## Myling
-### Strengths and Powers 
+### Strengths
 -
 ### Weakness 
 -
@@ -163,8 +165,47 @@ Hunts early
 <br />
 
 ## Goryo
-### Strengths and Powers 
+### Strengths 
 - 
+### Weakness 
+-
+
+<br />
+
+## Onryo
+### Search Terms
+Hunts early
+### Strengths
+- Killing someone will make it more likely to hunt after blowing out candle. (After two kills it's 100% likely to hunt after blowing out candle(?)) -- Oct 2021
+### Weakness 
+- Any fire (lighter, candle, campfire) disables early hunt -- Oct 2021
+
+<br />
+
+## The Twins
+### Strengths
+- The hunt can start at either twin. Main ghost or last interaction twin did -- Oct 2021
+### Weakness 
+- The twin won't set off motion sensors/etc but will interact with enviornment. -- Oct 2021
+
+<br />
+
+## Obake
+### Strengths
+- Has a passive ability with a chance to happen involving fingerprints no one has figured out yet -- Oct 2021
+- 50% (or 40%?) chance of leaving fingerprints -- Oct 2021
+### Weakness 
+-
+### Myth
+- Doesn't shapeshift or anything too obvious -- Oct 2021
+
+<br />
+
+## Raiju
+### Search Terms
+Early hunt(?), Fast
+### Strengths
+- Near active electrical items can hunt faster (2nd to rev speed) even without player los -- Oct 2021
 ### Weakness 
 -
 
@@ -177,10 +218,12 @@ Speed: player 1.6x, jinn (max) 2.5x, rev 3x -- Aug 2021
 
 Crucifix: range normally 3m for all ghosts except banshee (5m) -- Oct 2021
 
-Myth: Jinn faster when they don't see a player and are just roaming around -- Aug 2021
-
 Ghost events: drop sanity by 10% -- Aug 2021
 
-Oujia board: failed questions 40% drop, successful questions 10% drop -- Oct 2021
+Fingerprints: most ghosts have a 75% chance of leaving fingerprints -- Oct 2021
+
+Sanity pills: (goes up in 5s) 40% amateur, 25% in nightmare
+
+Oujia board: failed questions 40% drop, successful questions 10% drop -- Oct 2021 (Pre-halloween update)
 
 Front door: only closes during hunts or ghost event. Ghost can't close it by touching it like other doors -- Oct 2021
