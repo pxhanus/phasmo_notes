@@ -68,9 +68,10 @@ Hunts early
 ### Strengths
 - Can hunt at any sanity, rare -- Oct 2021
 - Objectives "escape ghost" "repel ghost" harder because won't work unless target leaves house or does it themselves. -- Aug 2021
+- Singing ghost events now drain extra 5% sanity _just on banshee's target_
 ### Weakness 
-- Crucifix range almost doubled (5m pretty sure) -- Aug 2021
 - Picks a target. When target isn't in house, hunts closest person normally. When target in house, will only kill target, others could run into ghost and survive -- Aug 2021
+- Can use Para Mic to hear wailing occasionally 
 
 <br />
 
@@ -123,7 +124,8 @@ Hunts early
 ### Strengths
 - Can hunt at 70% sanity -- Oct 2021
 ### Weakness 
-- Successful oujia board questions won’t drop sanity -- Aug 2021
+- Successful oujia board questions won’t drop sanity -- Aug 2021 (replaced?)
+- Crucifix range almost doubled (5m pretty sure) -- Feb 2022
 
 <br />
 
@@ -216,7 +218,7 @@ Early hunt(?), Fast
 ## Random notes:
 Speed: player 1.6x, jinn (max) 2.5x, rev 3x -- Aug 2021
 
-Crucifix: range normally 3m for all ghosts except banshee (5m) -- Oct 2021
+Crucifix: range normally 3m for all ghosts except Demon (5m) -- Oct 2021
 
 Ghost events: drop sanity by 10% -- Aug 2021
 
