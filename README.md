@@ -239,3 +239,7 @@ Sanity pills: (goes up in 5s) 40% amateur, 25% in nightmare
 Oujia board: failed questions 40% drop, successful questions 10% drop -- Oct 2021 (Pre-halloween update)
 
 Front door: only closes during hunts or ghost event. Ghost can't close it by touching it like other doors -- Oct 2021
+
+‘The Tower’ card and Voodoo Doll pins can now force the ghost to interact with the Ghost Writing Book, DOTS Projector and doors, instead of only interacting with clutter -- Feb 2022
+
+Voodoo Doll’s sanity drain has been reduced to 5% for normal pins and 10% for heart pins -- Feb 2022
