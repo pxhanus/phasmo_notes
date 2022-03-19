@@ -57,6 +57,8 @@ Drop sanity
 - Throw multiple items at once. -- Aug 2021
 - Create fake emf 5 spikes on activity board in truck -- Aug 2021
 - Can be hard to find in an empty room w/o things to throw -- Aug 2021
+- Reduces sanity of all players instead of just one now. -- Feb 2022
+- 2% sanity drain per object thrown. -- Feb 2022
 ### Weakness
 - 
 
@@ -64,13 +66,16 @@ Drop sanity
 
 ## Banshee
 ### Search Terms
-Hunts early
+
 ### Strengths
 - Can hunt at any sanity, rare -- Oct 2021
 - Objectives "escape ghost" "repel ghost" harder because won't work unless target leaves house or does it themselves. -- Aug 2021
+- Singing ghost events now drain extra 5% sanity _just on banshee's target_. -- Feb 2022
+- Banshees will only check their targets sanity % for initiating a hunt in multiplayer. -- Feb 2022
 ### Weakness 
-- Crucifix range almost doubled (5m pretty sure) -- Aug 2021
 - Picks a target. When target isn't in house, hunts closest person normally. When target in house, will only kill target, others could run into ghost and survive -- Aug 2021
+- Can use Para Mic to hear wailing occasionally -- Feb 2022
+- Banshees will often wander toward their target when roaming -- Feb 2022
 
 <br />
 
@@ -114,6 +119,7 @@ Fast
 - Not active. Can take forever to get evidence. - Aug 2021
 ### Weakness 
 - 2 people in the ghost room can’t hunt at all - Aug 2021
+- For every 1% of average sanity lost, ghost event chance is increased by 2% (capped at normal activity). -- Feb 2022
 
 <br />
 
@@ -123,7 +129,8 @@ Hunts early
 ### Strengths
 - Can hunt at 70% sanity -- Oct 2021
 ### Weakness 
-- Successful oujia board questions won’t drop sanity -- Aug 2021
+- Successful oujia board questions won’t drop sanity -- Aug 2021 (replaced?)
+- Crucifix range almost doubled (5m pretty sure) -- Feb 2022
 
 <br />
 
@@ -141,8 +148,13 @@ Hunts early
 Fast
 ### Strengths
 - Faster when cold. Insym thinks is pretty negligible, especially on small maps. Probably more deadly on large maps.  -- Aug 2021
+- Double the chance to turn off power. -- Feb 2022
+- No longer can turn on the power, as this would stop them accelerating. -- Mar 2022
+- Maximum speed has been increased, and will change speed between smaller temperature bracket 
+(1.4m/s = 15°C+, 1.75m/s = 12°C, 2.1m/s = 9°C, 2.3m/s = 6°C, 2.5m/s = 3°C, 2.7m/s = 0°C)
 ### Weakness 
 - Slower than most ghosts with breaker on. -- Aug 2021
+- Will now show their breath in room temperatures of 3°C or lower. -- Feb 2022
 
 <br />
 
@@ -216,7 +228,7 @@ Early hunt(?), Fast
 ## Random notes:
 Speed: player 1.6x, jinn (max) 2.5x, rev 3x -- Aug 2021
 
-Crucifix: range normally 3m for all ghosts except banshee (5m) -- Oct 2021
+Crucifix: range normally 3m for all ghosts except Demon (5m) -- Feb 2022
 
 Ghost events: drop sanity by 10% -- Aug 2021
 
@@ -227,3 +239,7 @@ Sanity pills: (goes up in 5s) 40% amateur, 25% in nightmare
 Oujia board: failed questions 40% drop, successful questions 10% drop -- Oct 2021 (Pre-halloween update)
 
 Front door: only closes during hunts or ghost event. Ghost can't close it by touching it like other doors -- Oct 2021
+
+‘The Tower’ card and Voodoo Doll pins can now force the ghost to interact with the Ghost Writing Book, DOTS Projector and doors, instead of only interacting with clutter -- Feb 2022
+
+Voodoo Doll’s sanity drain has been reduced to 5% for normal pins and 10% for heart pins -- Feb 2022
